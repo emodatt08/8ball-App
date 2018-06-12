@@ -6,7 +6,6 @@
 <h2 id="screenshots">Screenshots</h2>
 
 ![](assets/screenshots/8ball_a.png)
-![](assets/screenshots/8ball_b.png)
 ![](assets/screenshots/8ball_c.png)
 
 
